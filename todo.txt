@@ -5,3 +5,4 @@ MY TO-DO LIST
 3- Study books
 4- Attend classes online
 5- Apply for remote jobs
+6- Practice code
